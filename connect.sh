@@ -24,7 +24,7 @@ echo "Hello $USERNAME"
 
 echo "What is your password to CS-Data?"
 
-read PASSWORD
+read -s PASSWORD
 
 echo "I am not showing your password for security reasons."
 
